@@ -7,4 +7,4 @@ Welcome to the CISSP Exam Cram repository! Here, I will organize learning resour
 - [Homework assignments from live study group](Homework.md)
 - [Errata, Issues, and Clarifications](Errata.md)
 - [Downloadable presentations](Downloads.md)
-- [Exam preparation strategies](Strategies.md)
+- [Exam preparation strategies](Strategies.md) 
